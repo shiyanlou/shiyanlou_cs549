@@ -25,3 +25,5 @@ source ~/.bashrc
 
 source /opt/ros/indigo/setup.bash
 
+sudo apt-get install pythin-rosinstall
+
